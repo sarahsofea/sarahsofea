@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Sarah</h1>
+<h1 align="center">Hi 👋, I'm Sarah Sofea </h1>
 <h3 align="center">Second Year of Computer Network and Security student at Universiti Teknologi Malaysia (UTM)</h3>
 
 <h3 align="left">Connect with me:</h3>
